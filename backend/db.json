@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "my stream ",
+      "description": "this stream is godly",
+      "id": 1
+    },
+    {
+      "title": "my stream",
+      "description": "i love my stream",
+      "id": 2
+    },
+    {
+      "title": "hi",
+      "description": "hello there",
+      "id": 3
+    },
+    {
+      "title": "I was edited",
+      "description": "this stream is edited",
+      "id": 9
+    },
+    {
+      "title": "New ",
+      "description": "Stream",
+      "userId": "104933223424064623544",
+      "id": 10
+    }
+  ]
+}
